@@ -1,0 +1,13 @@
+#NO
+name: Hello
+on:
+  workflow_dispatch:
+#j^2r
+jobs:
+  say-Hello:
+    runs-on: ubuntu-latest
+#snr
+    steps:
+     - name: say hello to every one
+       run: echo "Hello Everyone"
+      
