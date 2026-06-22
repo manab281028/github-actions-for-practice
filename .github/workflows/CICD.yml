@@ -30,5 +30,5 @@ jobs:
         run: echo "Deploying the code"
 
   
-  deploy:
+
   
